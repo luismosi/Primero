@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">cuarto</string>
+
+    <string-array name="ciudades">
+        <item>Medellin</item>
+        <item>Montelibano</item>
+        <item>Barranquilla</item>
+        <item>Monteria</item>
+        <item>Bogota</item>
+        <item>cali</item>
+        <item>Pereira</item>
+
+    </string-array>
+</resources>
